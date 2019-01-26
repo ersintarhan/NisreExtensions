@@ -8,10 +8,11 @@
     <Description>Some useful extensions for .net standard</Description>
     <Copyright />
     <PackageProjectUrl>https://github.com/ersintarhan/NisreExtensions</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/ersintarhan/NisreExtensions/blob/master/LICENSE</PackageLicenseUrl>
+	 
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>extensions</PackageTags>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/ersintarhan/NisreExtensions/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
