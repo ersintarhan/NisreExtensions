@@ -13,6 +13,7 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>extensions</PackageTags>
     <PackageLicenseUrl>https://raw.githubusercontent.com/ersintarhan/NisreExtensions/master/LICENSE</PackageLicenseUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
